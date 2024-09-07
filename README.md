@@ -1,4 +1,4 @@
-### Hello! I'm Ika (Override), I usually make unity mods and plugins.
+Hello! I'm Ika (Override), I usually make unity mods and plugins.
 
 <a href="https://github.com/IkaOverride"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=IkaOverride&theme=radical&title_color=00d676"></a>
 <a href="https://github.com/IkaOverride"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=IkaOverride&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=00d676&fire=00d676&sideNums=00d676&sideLabels=00d676&currStreakLabel=ff6d24&currStreakNum=ff6d24"></a>
