@@ -1,10 +1,9 @@
-### Hi there 👋
+### Hello! I'm Ika (Override), I usually make unity mods and plugins.
+
+<a href="https://github.com/IkaOverride"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=IkaOverride&theme=radical&title_color=75ffc1"></a>
+<a href="https://github.com/IkaOverride"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=IkaOverride&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=75ffc1&fire=75ffc1&sideNums=75ffc1"></a>
 
 <!--
-**IkaOverride/IkaOverride** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
